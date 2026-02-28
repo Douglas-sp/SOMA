@@ -1,0 +1,16 @@
+{
+  "name": "SOMA Learning",
+  "short_name": "SOMA",
+  "description": "Digital literacy and life skills for Africa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "/icon-192x192.png", //add an icon image named icon-192x192.png to this same folder.
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
